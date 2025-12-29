@@ -64,3 +64,20 @@ Console-Based Application
 
 👤 Author
 Atharva Kakde
+
+---
+
+## 🧾 Screenshots
+
+### 💵 Final Bill
+![Bill](screenshots/Bill.png)
+
+### 🧑‍💼 Staff Management Menu
+![Staff Menu](screenshots/staff-menu.png)
+
+### 📅 Reservation System
+![Reservation](screenshots/reservation.png)
+
+### 📦 Raw Material Management
+![Raw Material](screenshots/raw-material.png)
+
