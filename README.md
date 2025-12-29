@@ -29,6 +29,10 @@ The system supports **customer ordering**, **staff management**, **reservations*
 
 ## 🔐 Staff Login Details
 Password: admin123
+
+yaml
+Copy code
+
 ---
 
 ## ▶️ How to Run the Project
@@ -36,22 +40,27 @@ Password: admin123
 ### Compile
 ```bash
 g++ main.cpp -o restaurant
-### RUN
+Run
+bash
+Copy code
 ./restaurant
-
 🏗️ System Design Overview
+MenuItem – Base class
 
-MenuItem (Base Class
-SpecialItem (Derived Class)
+SpecialItem – Derived class
+
 Restaurant – Menu handling & ordering
+
 StaffManagement – Employee records
+
 ReservationSystem – Table booking
+
 RawMaterialSystem – Inventory tracking
 
 📚 Project Type
 Academic / College Mini Project
+
 Console-Based Application
 
 👤 Author
 Atharva Kakde
-
