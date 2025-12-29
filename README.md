@@ -68,16 +68,9 @@ Atharva Kakde
 ---
 
 ## 🧾 Screenshots
+<img width="1920" height="1080" alt="Bill" src="https://github.com/user-attachments/assets/d1372934-4288-46c2-a11c-05819c9334d7" />
+<img width="1920" height="1080" alt="staff-menu" src="https://github.com/user-attachments/assets/5a557c63-0434-4088-a2c4-3b9ab8341b42" />
+<img width="1920" height="1080" alt="reservation" src="https://github.com/user-attachments/assets/fc38fcbd-9a97-467c-853e-2bdefa566733" />
+<img width="1920" height="1080" alt="raw-material" src="https://github.com/user-attachments/assets/fd96a5ce-1fec-4dfa-8a09-edbde34eac31" />
 
-### 💵 Final Bill
-![Bill](screenshots/Bill.png)
-
-### 🧑‍💼 Staff Management Menu
-![Staff Menu](screenshots/staff-menu.png)
-
-### 📅 Reservation System
-![Reservation](screenshots/reservation.png)
-
-### 📦 Raw Material Management
-![Raw Material](screenshots/raw-material.png)
 
